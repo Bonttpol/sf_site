@@ -1,2 +1,2 @@
 # sf_site
-Practic B 2.6
+Practice B 2.6
